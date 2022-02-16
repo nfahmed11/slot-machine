@@ -4,7 +4,6 @@
   display: flex;
   flex-direction: column;
   text-align: center;
-  font-size: large;
 }
 
 h1 {
@@ -17,4 +16,13 @@ h1 {
 
 body {
   border: 2px solid black;
+}
+
+.win {
+  background: rgb(118, 172, 118);
+  color: white;
+}
+.lose {
+  background: rgb(151, 0, 0);
+  color: white;
 }
