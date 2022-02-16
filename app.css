@@ -1,0 +1,20 @@
+.Machine {
+  border: 2px solid black;
+  background: rgb(85, 130, 172);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: large;
+}
+
+h1 {
+  background-color: rgb(40, 90, 40);
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+body {
+  border: 2px solid black;
+}
